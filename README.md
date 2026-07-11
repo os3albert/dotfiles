@@ -7,6 +7,7 @@
 ## INSTRUCTIONS
 do: 
 `brew bundle` -> to install all programs
+
 `stow */` -> to link all configurations
 
 
