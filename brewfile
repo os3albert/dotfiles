@@ -1,0 +1,14 @@
+# usage: -> brew bundle --file ~/dotfiles/brewfile
+
+brew "neovim"
+brew "tmux"
+brew "stow"
+brew "xcodes-app"
+brew "alt-tab"
+brew "aerospace"
+brew "font-hack-nerd-font"
+brew "meld"
+brew "fzf"
+brew "ghostty"
+brew "visual-studio-code"
+
